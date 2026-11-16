@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ethical Design Companion"
+  short_description: "Co-design and critically review responsible UX decisions."
+  brand_color: "#256D69"

@@ -1,0 +1,27 @@
+# Local system and editor files
+.DS_Store
+__MACOSX/
+*.swp
+.idea/
+.vscode/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Source publications, archives and project artifacts are not distributed
+*.pdf
+*.epub
+*.mobi
+*.zip
+*.docx
+*.pptx
+*.xlsx
+*.csv
+*.log
+private/
+internal/
+work/
+outputs/
